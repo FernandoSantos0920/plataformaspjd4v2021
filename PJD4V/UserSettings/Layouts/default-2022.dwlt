@@ -20,7 +20,11 @@ MonoBehaviour:
     height: 997
   m_ShowMode: 4
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   m_Title: Console
+=======
+  m_Title: Scene
+>>>>>>> Stashed changes
 =======
   m_Title: Scene
 >>>>>>> Stashed changes
@@ -124,7 +128,11 @@ MonoBehaviour:
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   controlID: 243
+=======
+  controlID: 133
+>>>>>>> Stashed changes
 =======
   controlID: 133
 >>>>>>> Stashed changes
@@ -153,7 +161,11 @@ MonoBehaviour:
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   controlID: 198
+=======
+  controlID: 88
+>>>>>>> Stashed changes
 =======
   controlID: 88
 >>>>>>> Stashed changes
@@ -182,7 +194,11 @@ MonoBehaviour:
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   controlID: 199
+=======
+  controlID: 77
+>>>>>>> Stashed changes
 =======
   controlID: 77
 >>>>>>> Stashed changes
@@ -204,12 +220,15 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     width: 325
     height: 562
   m_MinSize: {x: 201, y: 221}
   m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 14}
 =======
+=======
+>>>>>>> Stashed changes
     width: 288
     height: 563
   m_MinSize: {x: 200, y: 200}
@@ -301,7 +320,11 @@ MonoBehaviour:
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   controlID: 244
+=======
+  controlID: 134
+>>>>>>> Stashed changes
 =======
   controlID: 134
 >>>>>>> Stashed changes
@@ -751,9 +774,15 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_Position:
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     m_Target: {x: -9.390661, y: -8.282715, z: 0.028483886}
     speed: 2
     m_Value: {x: -9.178654, y: -8.127635, z: 0.025114002}
+=======
+    m_Target: {x: 15.733227, y: -4.698825, z: -0.07714674}
+    speed: 2
+    m_Value: {x: 15.547973, y: -4.4746113, z: -0.07304411}
+>>>>>>> Stashed changes
 =======
     m_Target: {x: 15.733227, y: -4.698825, z: -0.07714674}
     speed: 2
@@ -809,9 +838,15 @@ MonoBehaviour:
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     m_Target: 7.1516376
     speed: 2
     m_Value: 7.4886255
+=======
+    m_Target: 9.527227
+    speed: 2
+    m_Value: 9.116964
+>>>>>>> Stashed changes
 =======
     m_Target: 9.527227
     speed: 2
@@ -1229,6 +1264,9 @@ MonoBehaviour:
     m_SelectedIDs: d25f0000
     m_LastClickedID: 24530
     m_ExpandedIDs: 000000003e5f000000ca9a3b
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -1258,7 +1296,11 @@ MonoBehaviour:
     m_SelectedIDs: 
     m_LastClickedID: 0
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     m_ExpandedIDs: 0000000062640000
+=======
+    m_ExpandedIDs: 000000003e5f0000
+>>>>>>> Stashed changes
 =======
     m_ExpandedIDs: 000000003e5f0000
 >>>>>>> Stashed changes
